@@ -1,0 +1,171 @@
+# TODO: set up as github page
+baseURL: 'https://mindthegapblog.com/'
+title: 'Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.'
+theme: hugo-theme-papermod
+copyright: '© 2022-2023'
+
+paginate: 5
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+# googleAnalytics: UA-123-45 # TODO
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                # - name: Tags
+                #   url: tags/
+                #   weight: 10
+                # - name: WiKi
+                #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                # - name: Discord
+                #   url: https://discord.gg/ahpmTvhVmp
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious."
+    author: "Valentin Viennot"
+    # author: ["Me", "You"] # multiple authors
+    defaultTheme: auto
+    # disableThemeToggle: true
+    # ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    # ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    # ShowToc: true
+    # comments: false
+    images: ["mindthegap-tmp-picture.png"]
+
+    # profileMode:
+    #     enabled: true
+    #     title: Mind The Gap blog
+    #     imageUrl: "#"
+    #     imageTitle: my image
+    #     # imageWidth: 120
+    #     # imageHeight: 120
+    #     buttons:
+    #         - name: Archives
+    #           url: archives
+    #         - name: Tags
+    #           url: tags
+
+    homeInfoParams:
+        Title: "Mind the gap blog"
+        Content: >
+            Welcome to Mind the gap blog, where we explore the intersections of technology, design, society, and open source. Our goal is to contribute to individual and collective intelligence by sharing thought-provoking ideas, insights, and perspectives. Join us as we mind the gap between what is and what could be, and explore the possibilities of a smarter, more connected world.
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/valentinviennot"
+        # TODO: KoFi or equivalent
+        # - name: KoFi
+        #   url: "https://ko-fi.com/adityatelange"
+        - name: Rss
+          url: "index.xml"
+
+    editPost:
+        URL: "https://github.com/valentinviennot/mindthegapblog/tree/main/content"
+        # TODO: validate
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    label:
+        text: "m ind the ga p"
+        # TODO: logo
+        # icon: icon.png
+        # iconHeight: 35
+
+    # TODO: analytics (see other suppor than google)
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    assets:
+        disableHLJS: true
+        # TODO:
+    #     favicon: "<link / abs url>"
+    #     favicon16x16: "<link / abs url>"
+    #     favicon32x32: "<link / abs url>"
+    #     apple_touch_icon: "<link / abs url>"
+    #     safari_pinned_tab: "<link / abs url>"
+
+    # cover:
+    #     hidden: true # hide everywhere but not in structured data
+    #     hiddenInList: true # hide on list pages and home
+    #     hiddenInSingle: true # hide on single page
+
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false
+        # anchorLineNos: true
+        # codeFences: true
+        # guessSyntax: true
+        # lineNos: true
+        # style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true

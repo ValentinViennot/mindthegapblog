@@ -1,0 +1,9 @@
+[submodule "themes/hugo-winston-theme"]
+	path = themes/hugo-winston-theme
+	url = https://github.com/zerostaticthemes/hugo-winston-theme.git
+[submodule "themes/hugo-theme-codex"]
+	path = themes/hugo-theme-codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
+[submodule "themes/hugo-theme-papermod"]
+	path = themes/hugo-theme-papermod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
