@@ -29,17 +29,17 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
-                  url: archives
-                  weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
+                # - name: Archive
+                #   url: archives
+                #   weight: 5
+                # - name: Search
+                #   url: search/
+                #   weight: 10
                 # - name: Tags
                 #   url: tags/
                 #   weight: 10
-                # - name: WiKi
-                #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                - name: Portfolio
+                  url: https://valentin.viennot.me/
                 # - name: Discord
                 #   url: https://discord.gg/ahpmTvhVmp
 
