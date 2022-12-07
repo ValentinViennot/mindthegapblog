@@ -1,1 +1,1 @@
-hugo server --navigateToChanged --buildDrafts
+hugo server --navigateToChanged --buildDrafts --buildFuture
