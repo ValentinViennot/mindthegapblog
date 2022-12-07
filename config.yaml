@@ -88,6 +88,8 @@ params:
     socialIcons:
         - name: twitter
           url: "https://twitter.com/valentinviennot"
+        - name: Website
+          url: "https://valentin.viennot.me/"
         # TODO: KoFi or equivalent
         # - name: KoFi
         #   url: "https://ko-fi.com/adityatelange"
