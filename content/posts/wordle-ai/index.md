@@ -43,6 +43,8 @@ For each word we try, we can update the game state with the obtained information
 - YELLOW: This letter might is somewhere (1), but we know for sure it’s not here (-2).
 - NONE: This letter is nowhere in the word (-2).
 
+![Mental model of the Wordle game state.](grid.png)
+
 Using this mental model, we can code the logic of the game in Python. The "Wordle helper functions" and "Dataset generation" in the accompanying [notebook](https://colab.research.google.com/drive/1w2sFNPswhem8JZFfDAX7JcFXg77YkWyX?usp=sharing) contain all the necessary source code and steps for training a computer to play Wordle.
 
 Now that we have a way to represent the game state and a plan for programming the logic of the game, we can move on to building a Convolutional Neural Network (CNN) to solve Wordle grids.
