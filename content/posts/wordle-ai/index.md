@@ -1,6 +1,6 @@
 ---
 title: "Wordle-ing Our Way to Success: A CNN Experiment to Solve Wordle Grids"
-date: 2022-12-31T23:00:29+02:00
+date: 2022-12-31T10:00:29+02:00
 slug: "wordle-solver-ai-cnn"
 # description: "Solving Wordle games with AI using CNNs."
 keywords: ["tech", "wordle", "game", "ai"]
