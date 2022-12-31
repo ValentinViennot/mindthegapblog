@@ -51,7 +51,7 @@ Now that we have a way to represent the game state and a plan for programming th
 
 ## Convolutional Neural Networks: The Wordle Whisperers
 
-A Convolutional Neural Network (CNN) is a type of artificial neural network specifically designed for image recognition tasks. It is made up of layers of interconnected nodes, where each node represents a unit of computation. CNN classifiers, which is what we are going to build here, taking a matrice of pixels as input (the image), have multiple hidden computation layers, and an output layer that is a 1D-array of the possible classes.
+A Convolutional Neural Network (CNN) is a type of artificial neural network specifically designed for image recognition tasks. It is made up of layers of interconnected nodes, where each node represents a unit of computation. CNN classifiers, which is what we are going to build here, take a matrice of pixels as their input (the image), have multiple hidden computation layers, and their output layer is a 1D-array of the possible classes.
 
 In the context of our Wordle experiment, we can think of each game state as an image, with the position and letter representing different pixels. By training a CNN on a large dataset of game states and their corresponding correct words, we can teach the model to recognize patterns in the game states and make predictions about the correct word to play.
 
@@ -118,7 +118,7 @@ The first word played by our model is "Rales". It appears to be accepted by Word
 
 ### BONUS: Quordle?
 
-In the last cell of the Colab [notebook](https://colab.research.google.com/drive/1w2sFNPswhem8JZFfDAX7JcFXg77YkWyX?usp=sharing), I have demoed using the trained CNN to play the [Quordle](https://www.quordle.com/#/) variant of the Wordle game. As if playing Wordle wasn't challenging enough, in Quordle players must juggle four Wordle games at once.
+In the last cell of the Colab [notebook](https://colab.research.google.com/drive/1w2sFNPswhem8JZFfDAX7JcFXg77YkWyX?usp=sharing), I have demoed using the trained CNN to play the [Quordle](https://www.quordle.com/#/) variant of the Wordle game. As if playing Wordle wasn't challenging enough, in Quordle, players must juggle four Wordle games at once.
 
 One of the main limitations of CNNs is their inability to consider tradeoffs such as "explore vs exploit" when making decisions. In games like Wordle and Quordle, players often have to weigh the benefits of exploring their options (e.g. playing a word that may not be the correct one but provides more information) against the potential rewards of exploiting their current knowledge (e.g. playing a word that they believe is the correct one).
 
@@ -132,4 +132,4 @@ I hope that this blog post has provided an entertaining and informative look at 
 
 - [Google Colab Notebook](https://colab.research.google.com/drive/1w2sFNPswhem8JZFfDAX7JcFXg77YkWyX?usp=sharing)
 
-![[won-grid.png]]
+![Wordle grid won by a CNN AI.](won-grid.png)
