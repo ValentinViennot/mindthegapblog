@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2022-2023</copyright>
-    <lastBuildDate>Sat, 31 Dec 2022 10:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 11:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Colorize Black &amp; White Pictures (using OpenVINO on Ubuntu containers)</title>
+      <link>https://mindthegapblog.com/posts/colorize-black-white-pictures/</link>
+      <pubDate>Tue, 17 Jan 2023 11:00:29 +0200</pubDate>
+      
+      <guid>https://mindthegapblog.com/posts/colorize-black-white-pictures/</guid>
+      <description>If you’re looking to bring a stack of old family photos back to life, check out Ubuntu’s demo on how to use OpenVINO on Ubuntu containers to colorize monochrome pictures. This magical use of containers, neural networks, and Kubernetes is packed with helpful resources and a fun way to dive into deep learning!
+A version of Part 1 and Part 2 of this article was first published on Ubuntu’s blog.</description>
+    </item>
+    
     <item>
       <title>Wordle-ing Our Way to Success: A CNN Experiment to Solve Wordle Grids</title>
       <link>https://mindthegapblog.com/posts/wordle-solver-ai-cnn/</link>
