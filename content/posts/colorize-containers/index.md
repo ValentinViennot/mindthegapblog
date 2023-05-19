@@ -1,9 +1,9 @@
 ---
-title: "How to Colorize Black & White Pictures (using OpenVINO on Ubuntu containers)"
+title: "How to colorize black & white pictures."
 date: 2023-01-17T11:00:29+02:00
 slug: "colorize-black-white-pictures"
 keywords: ["containers", "ai", "openvino", "docker", "ubuntu"]
-# tags: [""]
+tags: ["tutorials", "tech", "ai"]
 # draft: true
 ---
 

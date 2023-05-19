@@ -1,10 +1,10 @@
 ---
-title: "Wordle-ing Our Way to Success: A CNN Experiment to Solve Wordle Grids"
+title: "Wordle-ing our way: CNN experiment to solve wordle grids."
 date: 2022-12-31T10:00:29+02:00
 slug: "wordle-solver-ai-cnn"
 # description: "Solving Wordle games with AI using CNNs."
 keywords: ["tech", "wordle", "game", "ai"]
-# tags: ["ai", "tech"]
+tags: ["tutorials", "tech", "ai"]
 ---
 
 Are you a fan of Wordle, the addictive word puzzle game? Have you ever wondered what is the best word to play first? In this blog post, I'll explore the use of Convolutional Neural Networks (CNNs) to solve Wordle grids with a success rate of over 80%.
