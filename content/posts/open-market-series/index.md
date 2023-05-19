@@ -3,7 +3,7 @@ title: "The Open Market series."
 date: 2023-05-19T15:00:29+02:00
 slug: "open-market-series"
 tags: ["open market"]
-draft: true
+# draft: true
 ---
 
 Welcome to the playground of my thoughts, a maze of ideas that's been simmering in my mind, only now finding their way to the surface, and to you. This upcoming series of posts truly fits with the vision of the Mind the gap blog. We'll be diving into a topic close to my heart, a complex puzzle made up of many pieces and deep reflections I've been nurturing for a while.
