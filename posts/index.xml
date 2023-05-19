@@ -10,9 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2022-2023</copyright>
-    <lastBuildDate>Tue, 17 Jan 2023 11:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 May 2023 15:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Colorize Black &amp; White Pictures (using OpenVINO on Ubuntu containers)</title>
+      <title>The Open Market series.</title>
+      <link>https://mindthegapblog.com/posts/open-market-series/</link>
+      <pubDate>Fri, 19 May 2023 15:00:29 +0200</pubDate>
+      
+      <guid>https://mindthegapblog.com/posts/open-market-series/</guid>
+      <description>Welcome to the playground of my thoughts, a maze of ideas that&amp;rsquo;s been simmering in my mind, only now finding their way to the surface, and to you. This upcoming series of posts truly fits with the vision of the Mind the gap blog. We&amp;rsquo;ll be diving into a topic close to my heart, a complex puzzle made up of many pieces and deep reflections I&amp;rsquo;ve been nurturing for a while.</description>
+    </item>
+    
+    <item>
+      <title>How to colorize black &amp; white pictures.</title>
       <link>https://mindthegapblog.com/posts/colorize-black-white-pictures/</link>
       <pubDate>Tue, 17 Jan 2023 11:00:29 +0200</pubDate>
       
@@ -22,7 +31,7 @@ A version of Part 1 and Part 2 of this article was first published on Ubuntu
     </item>
     
     <item>
-      <title>Wordle-ing Our Way to Success: A CNN Experiment to Solve Wordle Grids</title>
+      <title>Wordle-ing our way: CNN experiment to solve wordle grids.</title>
       <link>https://mindthegapblog.com/posts/wordle-solver-ai-cnn/</link>
       <pubDate>Sat, 31 Dec 2022 10:00:29 +0200</pubDate>
       

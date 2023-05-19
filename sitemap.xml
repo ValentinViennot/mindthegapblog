@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mindthegapblog.com/</loc>
+    <lastmod>2023-05-19T15:00:29+02:00</lastmod>
+  </url><url>
+    <loc>https://mindthegapblog.com/tags/open-market/</loc>
+    <lastmod>2023-05-19T15:00:29+02:00</lastmod>
+  </url><url>
+    <loc>https://mindthegapblog.com/posts/</loc>
+    <lastmod>2023-05-19T15:00:29+02:00</lastmod>
+  </url><url>
+    <loc>https://mindthegapblog.com/tags/</loc>
+    <lastmod>2023-05-19T15:00:29+02:00</lastmod>
+  </url><url>
+    <loc>https://mindthegapblog.com/posts/open-market-series/</loc>
+    <lastmod>2023-05-19T15:00:29+02:00</lastmod>
+  </url><url>
+    <loc>https://mindthegapblog.com/tags/ai/</loc>
+    <lastmod>2023-01-17T11:00:29+02:00</lastmod>
+  </url><url>
     <loc>https://mindthegapblog.com/posts/colorize-black-white-pictures/</loc>
     <lastmod>2023-01-17T11:00:29+02:00</lastmod>
   </url><url>
-    <loc>https://mindthegapblog.com/</loc>
+    <loc>https://mindthegapblog.com/tags/tech/</loc>
     <lastmod>2023-01-17T11:00:29+02:00</lastmod>
   </url><url>
-    <loc>https://mindthegapblog.com/posts/</loc>
+    <loc>https://mindthegapblog.com/tags/tutorials/</loc>
     <lastmod>2023-01-17T11:00:29+02:00</lastmod>
   </url><url>
     <loc>https://mindthegapblog.com/posts/wordle-solver-ai-cnn/</loc>
@@ -24,7 +42,5 @@
     <loc>https://mindthegapblog.com/search/</loc>
   </url><url>
     <loc>https://mindthegapblog.com/series/</loc>
-  </url><url>
-    <loc>https://mindthegapblog.com/tags/</loc>
   </url>
 </urlset>
