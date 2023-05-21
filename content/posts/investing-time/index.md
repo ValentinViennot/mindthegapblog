@@ -1,6 +1,6 @@
 ---
 title: "All we do is invest."
-date: 2023-05-20T11:00:29+02:00
+date: 2023-05-21T10:00:29+02:00
 slug: "all-we-do-is-investment"
 tags: ["thoughts", "open market", "opinion"]
 keywords: ["investment", "market", "startup"]
