@@ -2,7 +2,7 @@
 title: "Dying isn't as sad as Not living."
 date: 2023-07-31T19:20:29+02:00
 slug: "we-all-have-a-mission"
-tags: ["quotes"]
+tags: ["quotes", "thoughts"]
 keywords: []
 draft: true
 ---
