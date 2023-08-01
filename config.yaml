@@ -8,12 +8,12 @@ paginate: 5
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: true
+# buildDrafts: true
 buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45 # TODO
+googleAnalytics: G-RTFFSGBVBC
 
 minify:
     disableXML: true
@@ -50,7 +50,7 @@ outputs:
         - JSON
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    env: production
     description: "Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious."
     author: "Valentin Viennot"
     # author: ["Me", "You"] # multiple authors
@@ -108,10 +108,9 @@ params:
         # icon: icon.png
         # iconHeight: 35
 
-    # TODO: analytics (see other suppor than google)
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+    analytics:
+        google:
+            SiteVerificationTag: "G-RTFFSGBVBC"
 
     assets:
         disableHLJS: true
