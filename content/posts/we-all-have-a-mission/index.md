@@ -4,12 +4,12 @@ date: 2023-07-31T19:20:29+02:00
 slug: "we-all-have-a-mission"
 tags: ["quotes", "thoughts"]
 keywords: []
-draft: true
+# draft: true
 ---
 
-> Leaving this here for posterity:    
-> **"Dying isn't as sad as Not living."**     
->  —Valentin Viennot, 2023
+> Leaving this here for posterity:  
+> **"Dying isn't as sad as Not living."**  
+> —Valentin Viennot, 2023
 
 I know; death is a sad and probably not the most exciting topic for a post. But you needed to read it. In fact, this post is more about life than death. It's more of a wake-up call, an invitation even.
 
@@ -31,5 +31,4 @@ You might be thinking, "Well, I can't just backpack around the world or quit my 
 
 So, are you living? Why are you doing this thing you're doing? Or rather, [why aren't you](http://paulgraham.com/procrastination.html) doing what you're not doing but wish you were?
 
-
-Let’s live. It's your time.
+**Let’s live. It's your time.**
