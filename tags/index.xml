@@ -11,29 +11,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2022-2023</copyright>
-    <lastBuildDate>Mon, 31 Jul 2023 19:20:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>quotes</title>
-      <link>https://mindthegapblog.com/tags/quotes/</link>
-      <pubDate>Mon, 31 Jul 2023 19:20:29 +0200</pubDate>
-      
-      <guid>https://mindthegapblog.com/tags/quotes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thoughts</title>
-      <link>https://mindthegapblog.com/tags/thoughts/</link>
-      <pubDate>Mon, 31 Jul 2023 19:20:29 +0200</pubDate>
-      
-      <guid>https://mindthegapblog.com/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 21 Sep 2023 10:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>open market</title>
       <link>https://mindthegapblog.com/tags/open-market/</link>
-      <pubDate>Sun, 21 May 2023 10:00:29 +0200</pubDate>
+      <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
       
       <guid>https://mindthegapblog.com/tags/open-market/</guid>
       <description></description>
@@ -42,9 +24,27 @@
     <item>
       <title>opinion</title>
       <link>https://mindthegapblog.com/tags/opinion/</link>
-      <pubDate>Sun, 21 May 2023 10:00:29 +0200</pubDate>
+      <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
       
       <guid>https://mindthegapblog.com/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>https://mindthegapblog.com/tags/thoughts/</link>
+      <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
+      
+      <guid>https://mindthegapblog.com/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quotes</title>
+      <link>https://mindthegapblog.com/tags/quotes/</link>
+      <pubDate>Mon, 31 Jul 2023 19:20:29 +0200</pubDate>
+      
+      <guid>https://mindthegapblog.com/tags/quotes/</guid>
       <description></description>
     </item>
     
