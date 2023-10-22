@@ -11,20 +11,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2022-2023</copyright>
-    <lastBuildDate>Thu, 21 Sep 2023 10:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 10:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>open market</title>
-      <link>https://mindthegapblog.com/tags/open-market/</link>
-      <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
+      <title>economy</title>
+      <link>https://mindthegapblog.com/tags/economy/</link>
+      <pubDate>Fri, 22 Sep 2023 10:00:29 +0200</pubDate>
       
-      <guid>https://mindthegapblog.com/tags/open-market/</guid>
+      <guid>https://mindthegapblog.com/tags/economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market</title>
+      <link>https://mindthegapblog.com/tags/market/</link>
+      <pubDate>Fri, 22 Sep 2023 10:00:29 +0200</pubDate>
+      
+      <guid>https://mindthegapblog.com/tags/market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open</title>
+      <link>https://mindthegapblog.com/tags/open/</link>
+      <pubDate>Fri, 22 Sep 2023 10:00:29 +0200</pubDate>
+      
+      <guid>https://mindthegapblog.com/tags/open/</guid>
       <description></description>
     </item>
     
     <item>
       <title>opinion</title>
       <link>https://mindthegapblog.com/tags/opinion/</link>
-      <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
+      <pubDate>Fri, 22 Sep 2023 10:00:29 +0200</pubDate>
       
       <guid>https://mindthegapblog.com/tags/opinion/</guid>
       <description></description>
@@ -33,9 +51,18 @@
     <item>
       <title>thoughts</title>
       <link>https://mindthegapblog.com/tags/thoughts/</link>
-      <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
+      <pubDate>Fri, 22 Sep 2023 10:00:29 +0200</pubDate>
       
       <guid>https://mindthegapblog.com/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open market</title>
+      <link>https://mindthegapblog.com/tags/open-market/</link>
+      <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
+      
+      <guid>https://mindthegapblog.com/tags/open-market/</guid>
       <description></description>
     </item>
     
