@@ -38,7 +38,7 @@ Many of our freedoms seem trivial today. We enjoy them without even realising th
 
 The history of computing and the Internet is fascinating. The history of Free software even more (I encourage french-speakers to read "[Une histoire de l'informatique](https://books.google.fr/books?id=w1p1QgAACAAJ&hl=fr&source=gbs_ViewAPI&redir_esc=y)" by P. Breton).
 
-Free software is an ideology. In the 80s, [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) —father of the Copytheft's GPL licence, GNU project, and Free Software Fondation— shared the ideology [originating thoughts and philosophy](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf). Simplistically: **software must be _free_ (as in freedom) because we humans aim to be _free_ and it was foreseen that eventually software would govern our human lives.**
+Free software is an ideology. In the 80s, [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) —father of the Copytheft's GPL licence, GNU project, and Free Software Foundation— shared the ideology [originating thoughts and philosophy](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf). Simplistically: **software must be _free_ (as in freedom) because we humans aim to be _free_ and it was foreseen that eventually software would govern our human lives.**
 
 In 1991, [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) boosted the GNU project by creating Linux and Git. These free projects would soon become the foundation for the entire modern computing stack.
 
@@ -139,7 +139,7 @@ The same thing can be done with open source: Incentivising investors and consume
 
 ### Value creation hypothesis
 
-In fact, some corporations and public entities are already paying to maintain and develop specific, popular open-source projects. They are subsidising their instant value creation. And the most successful open-source projects even are able to sell extra services on top.
+In fact, some corporations and public entities are already paying to maintain and develop specific, popular open-source projects. They are subsidising their instant value creation. And the most successful open-source projects even are able to sell extra services on top (Related read: "Investing in Open Source: The FOSS Contributor Fund", Duane O’Brien and Mandy Grover, Indeed, 2022).
 
 This is the value creation hypothesis: **the instant value delivered by open-source projects is valuable to other economic agents with strong economic motives to subsidise it.**
 
@@ -167,7 +167,7 @@ A corollary is that the more projects are being open-sourced, the more will be.
 
 As said, over-the-counter transactions are already happening and some economic agents are already subsidising open-source projects' instant value creation and economic future.
 
-It mostly happens through 'Fondations' like the Linux Fondation and the Cloud Native Computing Fondation. In my opinion, the investment [motivation](https://blogs.vmware.com/opensource/2020/12/01/why-companies-contribute-to-open-source/) for Big Tech to participate in these Fondations is quite transparent: they want to [maintain](https://matt-rickard.com/why-did-meta-open-source-llama) their already-established [monopolies](https://projects.itforchange.net/state-of-big-tech/state-of-big-tech-capitalism-in-the-age-of-intellectual-monopoly/) and their control over innovation.
+It mostly happens through 'Foundations' like the Linux Foundation and the Cloud Native Computing Foundation. In my opinion, the investment [motivation](https://blogs.vmware.com/opensource/2020/12/01/why-companies-contribute-to-open-source/) for Big Tech to participate in these Foundations is quite transparent: they want to [maintain](https://matt-rickard.com/why-did-meta-open-source-llama) their already-established [monopolies](https://projects.itforchange.net/state-of-big-tech/state-of-big-tech-capitalism-in-the-age-of-intellectual-monopoly/) and their control over innovation.
 
 Open source is a powerful disruption tool to control markets. If one has enough capital, one can fund open-source alternatives to their competitors and maintain —or regain— their market domination. The open-sourcing of generative AI models is an interesting data point to support this analysis (although, it [arguably](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807) isn't truly open source).
 
@@ -222,7 +222,7 @@ This probably won't help funding your random open-source app, but this will open
 
 In fact, entering this market while not being open source would represent a high risk —same as a company becoming public without publishing their financial results. We might decide to make it illegal to do so, but even if it wasn't the risk would probably be too big for investors anyway.
 
-> Hey **you**! I am [right now](https://notes.valentin.viennot.me/What%20am%20I%20doing%20right%20now%3F) actively building this Open Market idea as a combination of a non-profit Fondation and a start-up. If you'd like to discuss and maybe jump on board, please do reach out ([Twitter](https://twitter.com/ValentinViennot), [BlueSky](https://bsky.app/profile/valentin.viennot.me), [LinkedIN](https://www.linkedin.com/in/valentin-viennot/)). I have the vision & strategy, now building a team.
+> Hey **you**! I am [right now](https://notes.valentin.viennot.me/What%20am%20I%20doing%20right%20now%3F) actively building this Open Market idea as a combination of a non-profit Foundation and a start-up. If you'd like to discuss and maybe jump on board, please do reach out ([Twitter](https://twitter.com/ValentinViennot), [BlueSky](https://bsky.app/profile/valentin.viennot.me), [LinkedIN](https://www.linkedin.com/in/valentin-viennot/)). I have the vision & strategy, now building a team.
 
 ## So, can we save the planet?
 
@@ -277,7 +277,7 @@ In a world with finite resources, infinite growth isn't credible ; abundance is 
 
 In fact, the problem with our current economy is that the two types of growth are intertwined.
 
-If we could have technological growth without production growth, we would be fine (and only in that case it could be credible that technology _might_ save us.
+If we could have technological growth without production growth, we would be fine (and only in that case it could be credible that technology _might_ save us).
 
 Today, for technological growth to happen, we must sell always more goods & services in order to create surplus value and extract profit that will then, in part, fund the next technologies.
 
