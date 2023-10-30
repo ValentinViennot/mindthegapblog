@@ -56,7 +56,7 @@ Open source is a self-replicating winner: the more is free, the more will be fre
 
 ## Instant value
 
-The value of open-source knowledge comes both from its past and its future, but not from its present state. Before: when the value is being created. And after: when the said resource's value might decrease of even go negative in case sufficient maintenance isn't provided (bugs, CVEs, malware etc). Its present state is free and infinite.
+The value of open-source knowledge comes both from its past and its future, but not from its present state. Before: when the value is being created. And after: when the said resource's value might decrease or even go negative in case sufficient maintenance isn't provided (bugs, CVEs, malware etc). Its present state is free and infinite.
 
 These are the two types of value that open source creates,
 
@@ -76,7 +76,7 @@ With an energy budget of 10kWh, which of the two factories did deliver more valu
 
 Well, we don't know. In fact, it wouldn't matter if one absorbed 100kWh and the other 1kWh. The only thing that matters is their outcome and its value to society (or rather, to the market).
 
-It probably requires [as much energy](https://www.techwalls.com/production-costs-of-smartphones/) to build an iPhone 11 Pro Max than a Google Pixel 6 Pro. And yet, one almost has the double market value of the other. In fact, that's exactly how value is being defined in our economy.
+It approximatively requires [as much energy](https://www.techwalls.com/production-costs-of-smartphones/) to build an iPhone 13 Pro Max (2021) than a Google Pixel 6 Pro (2021). And yet, the iPhone is 30% more expensive. In fact, that's exactly how value is being defined in our economy.
 
 Energy has a production cost and therefore is virtually limited. The selling price of the produced goods and services must be higher than its production cost, otherwise it wouldn't create value and the company would quickly crash on the market and possibly go bankrupt.
 
@@ -167,7 +167,7 @@ A corollary is that the more projects are being open-sourced, the more will be.
 
 As said, over-the-counter transactions are already happening and some economic agents are already subsidising open-source projects' instant value creation and economic future.
 
-It mostly happens through 'Foundations' like the Linux Foundation and the Cloud Native Computing Foundation. In my opinion, the investment [motivation](https://blogs.vmware.com/opensource/2020/12/01/why-companies-contribute-to-open-source/) for Big Tech to participate in these Foundations is quite transparent: they want to [maintain](https://matt-rickard.com/why-did-meta-open-source-llama) their already-established [monopolies](https://projects.itforchange.net/state-of-big-tech/state-of-big-tech-capitalism-in-the-age-of-intellectual-monopoly/) and their control over innovation.
+It mostly happens through 'Foundations' like the Linux Foundation and the Cloud Native Computing Foundation. In my opinion, the investment [motivation](https://blogs.vmware.com/opensource/2020/12/01/why-companies-contribute-to-open-source/) for Big Tech to participate in these Foundations is quite transparent: they want to [maintain](https://matt-rickard.com/why-did-meta-open-source-llama) their already-established [monopolies](https://projects.itforchange.net/state-of-big-tech/state-of-big-tech-capitalism-in-the-age-of-intellectual-monopoly/) and their [control over innovation](https://www.thestack.technology/hashicorp-ceo-predicts-oss-free-silicon-valley-unless-the-open-source-model-evolves/).
 
 Open source is a powerful disruption tool to control markets. If one has enough capital, one can fund open-source alternatives to their competitors and maintain —or regain— their market domination. The open-sourcing of generative AI models is an interesting data point to support this analysis (although, it [arguably](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807) isn't truly open source).
 
