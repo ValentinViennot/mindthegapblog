@@ -1,165 +1,173 @@
 ---
-title: "Why Open Source isn't Profitable"
+title: Why Open Source isn't Profitable
 date: 2023-09-21T10:00:29+02:00
-slug: "why-open-source"
-tags: ["thoughts", "open market", "opinion"]
-keywords: ["opensource", "open source", "oss", "profit"]
-draft: true
+slug: why-open-source
+tags:
+  - thoughts
+  - open
+  - market
+  - opinion
+keywords:
+  - opensource
+  - open source
+  - oss
+  - profit
+draft: false
 ---
 
+**In a Capitalist economy, Open Source has no (direct) value.**
 
-In [Open Source is not profitable](https://notes.valentin.viennot.me/Open%20Source%20is%20not%20profitable), I explain my thinking that —in a Capitalist Economy—, Open Source has no (financial) added value.
+## Open source is not profitable
 
-What this means is that, when the added _Value_ is _measured with_ the valuation of the total financial assets created or gathered by a company, then Open Source projects and companies deliver an added value close to Zero (or at least, not as fast growing as traditional companies relying on proprietary assets).
+Let's start with a few definitions:
 
-However, when the added _Value_ is measured with the amount of "good" Innovation or Progress added to society, then it should be trivial that [Open Source has the biggest added value](https://notes.valentin.viennot.me/Open%20Source%20has%20the%20biggest%20added%20value).
+- the price is the exchange value of a good or a service in a socio-economic context,
+- the production cost is what it costs to build a good or deliver a service,
+- added value is the price minus the production cost.
 
-I therefore conclude that "the market is broken". In the sense that (_in my opinion_) it's not doing its valuation job properly.
+Open-source software delivers an _added value_ close to or below zero. As the _price_ for using it is zero so is the _added value_, no matter the _production cost_.
+
+But if we measured the _value_ as the amount of cascading innovation or progress added to society, then it should be trivial that open source projects have the biggest _societal added value_.
+
+On the other hand, proprietary tech often has a theoretically-infinite added value as the production cost can be averaged to zero across sales.
+
+How can this contradiction be true? My conclusion is that **the market is broken**. In the sense that (_in my opinion_) it's not doing its valuation job properly, therefore impacting our economy.
 
 ![Meme 'You had one job'](./you-had-one-job34-580x425.jpg)
 
-Open Source is not profitable.
+_Disclaimer: I never studied the fields of Economy and Finance. Forgive my simplifications and naive assumptions. Don't make any [investment](../all-we-do-is-investment/) decision based on my notes._
 
-But, **why is that?** why is the market broken? , and how exactly? , and how to fix it?
+## The creation of value
 
-_Disclaimer: I never studied the fields of Economy and Finance. Forgive my simplifications and naive assumptions. Don't make any decision based on my notes._
+In our current—Capitalist—economy, **Intellectual Property (IP) and Human Labor are seen just the same as any other Production Means.**
 
-## The Creation of Value
+They can be traded and used to create value. But _they_ aren't _value_.
 
-In our current —Capitalist— Economy (read The Real World), **Intellectual Property (IP) and Human Labour are seen just the same as other Production Means.**
+**By axiomatic design, labor and IP aren't free (as in freedom)**: They are constrained _in order to_ produce _value_. They are just **means to an end** (in that case, profit).
 
-They can be traded and used (=exploited) to create value. But _they aren't value_.
+_Value_ is what comes _out_ of the profitable exploitation of all these various resources.
 
-**Labour and IP aren't free**: They are constrained _in order to_ produce _Value_. Same as for Natural Resources. They are all just **means to an end** (Profit).
+>"Price is what you pay. Value is what you get." —Warren Buffett
 
-_Value_ is what comes _out_ of the profitable use of all these various resources.
+A (convenient) corollary is that **Capital only has to be measured as an amount of Money.**
 
-A (convenient) corollary is that **Capital is only measured as an amount of Money.**
+### In theory, open source is hugely profitable
 
-> _Wait , didn't you just conclude that Open Source is **super** profitable?_ Indeed. If you manage to have Open Source developers contribute for free to your project (or that you only use freely available software to enable your business)... then your business' added value just increased as your reduced the cost of resources. End users don't (have to) care that your code is freely available. For most of them, what they (only) care about is your end product. So why does it not work like this? ... Because of competition.
+If you manage to have Open Source developers contribute for free to your project (or that you just use freely available software to enable your business), then your business' added value is hugely increased as you reduced your production cost.
 
-### The Curse of Competition
+End users don't (have to) care that your code is freely available. For most of them, the only thing they care about is your end product quality and its price (in that case, most often free).
+
+So why does it not always work like this?
+
+### The curse of competition
 
 **The competitive market is designed to optimise the use of resources.**
 
-If you open sourced your business critical software (IP) with a true Open Source Licence (ie granting [See, Edit, and Share](https://notes.valentin.viennot.me/Open%20Source%20should%20always%20be%20Free) rights), then your competitors would be able to simply copy your core value and start competing with you for a $0 entry cost.
+If you open sourced your business-critical software (IP) with a true Open Source Licence (ie granting [See, Edit, and Share](https://opensource.org/osd/) rights), then your competitors would be able to simply copy your core value and start competing with you for a $0 entry cost.
 
-Eventually, your only way to make more money (profit) than your competitors —ie to add more _value_— would be to minimise your use of resources. At the end, with enough competition, your customers (market consumers) should be able to pay for exactly what was the production cost of what you are selling (in = out).
+Eventually, your only way to be more profitable than your competitors—i.e. to create more _value_—would be to minimise your use of resources. At the end, with enough competition, your customers (market consumers) should be able to pay for exactly what was the production cost of what you are selling (in = out).
 
-This is a —sort of— ideal market. At least, from a short-term consumer perspective.
+This is a—sort of—ideal competitive market. At least, from a short-term consumer perspective.
 
-But optimising resources also means compromising on the cost of Labour and IP. With unregulated (or not-enough-regulated) competition, this leads to poorly paid workers and unbearable working conditions. And/or to really bad products.
+But optimising resources also means compromising on the cost of Labor and IP. With unregulated (or not-"enough"-regulated) competition, this leads to poorly paid workers and unbearable working conditions. And/or to really bad products.
 
-In the end, it also means no more investment in IP —ie, no more Innovation. **Without added value, there's no investment feedback loop**. One can still invest their money, but it would be based on good will and for a low ROI.
+In the end, it also means no more investment in IP—i.e. no more Innovation: **without added value, there's no investment feedback loop**.
 
-In fact, for your hypothetical company that just decided to open source its business critical software, it gets even worse than what I just wrote above.
-
-Because you initially invested Capital (=money) in the Labour (=employees' work/time) that went into creating your business critical software, you are now **loosing** money. Your competitors on the other hand could enter the game at no cost.
+In fact, for your hypothetical company that just decided to open source its business-critical software, it gets even worse. Because you initially invested capital (=money) in the labor (=time) that went into creating your business-critical software, you are now **loosing** money. Your competitors on the other hand could enter the game at no cost.
 
 **As a consequence , an open sourcing strategy would lead to your company going bankrupt (or almost bankrupt) and leaving behind a commoditised market.**
 
-### A note on Corporations abusing Open Source contributors
+### A note on corporations abusing open source contributors
 
-There are a few open sourcing strategies that don't end with your company facing bankruptcy.
+**There are a few open sourcing strategies that don't end with bankruptcy.**
 
-However, most of them are not **true** Open Source. In fact, most of them are just tricking Open Source contributors into doing free work for the benefit of a for-profit company.
+However, most of them are not **true** open source. In fact, most of them are just tricking open source contributors into doing free work for the benefit of a for-profit company.
 
-Mostly, we distinguish ([The Open Source business models](https://notes.valentin.viennot.me/The%20Open%20Source%20business%20models)):
+Mostly, we distinguish:
 
-1. Open Core: the Hybrid model.
-2. Consulting Services: the Red Hat model.
+1. Open core: the hybrid model (Mattermost, Elastic...).
+2. Consulting services: the Red Hat model.
 3. Brand value: the Ubuntu model.
-4. Disruption Tool: the Google model.
-5. Bivalent Licence: the Meta model.
+4. Disruption tool: the Google model.
+5. Dual-licensing: the Meta (and Docker) model.
 
-Open Core is an insult to the Open Source ideology, it's like a honey pot tricking users and contributors into your ecosystem. But then the value-adding features are close source. The worse kind is Close Core (Backend) Open Client (Frontend). Then you really are just exploiting free work for your own benefit.
+In my opinion, 'open core' is an insult to the open source ideology, it's like a honey pot tricking users and contributors into your ecosystem. But then the value-adding features are close source. The worse kind is the reversed 'close core (backend) open client (frontend)', then you really are just exploiting free work for your own benefit. Unfortunately, this is an often necessary and a sometimes a quite smart commercial or marketing strategy.
 
-Consulting Services are a very smart and functional business model. It worked well for Red Hat for some time. The only (non-negligible) downside is that it doesn't scale. It requires 1:1 hiring and therefore profits can't compete with closed-source solutions.
+Consulting services are a very smart and functional business model. It worked well for Red Hat for some time. The only (non-negligible) downside is that it doesn't scale. It requires 1:1 hiring and therefore profits often can't compete with close-source solutions.
 
-[Brand value](https://notes.valentin.viennot.me/Brand%20value) is an interesting one. It's basically implying that your copy (fork) of "Ubuntu" is worth nothing if you cannot name it "Ubuntu". Brand valuation has three main downsides:
+Brand value is an interesting one. It's basically implying that a fork (copy) of e.g. "Ubuntu" is worth nothing if you cannot name it "Ubuntu". Brand valuation has three main downsides:
 
-1. It takes time and resources to build
-2. It's hard to quantify
-3. And it's worth nothing if you can't _leverage_ it (ie sell your products at a higher price)
+1. It takes time and resources to build,
+2. It's hard to quantify,
+3. And it's worth nothing if you can't _leverage_ it (i.e. sell something at a higher _price_).
 
-Using Open Source as a Disruption Tool is also a very interesting one. Google used this strategy at least twice with Android and then Kubernetes in order to disrupt markets where they were not the #1 (and therefore, losing: [There's only one winner](https://notes.valentin.viennot.me/There's%20only%20one%20winner)). It's not _per-say_ generating profits, but it's a good strategy to get there. It's also not _per-say_ directly abusing Open Source contributors, but it's still (arguably) persuading workers to do free labour for an end that is essentially of benefit to you as a for-profit economic agent.
+Using open source as a disruption tool is also a very interesting and clever one. Google utilised this strategy many times, for example with Android and Kubernetes, in order to disrupt markets where they were not the number one (and therefore, losing —as tech markets are 'winner takes it all' situations). This approach not _directly_ profitable, but it's a good strategy to get there. It's also not directly abusing open source contributors; but it's still arguably persuading workers to do free labor for an end that is essentially of benefit to you as a for-profit economic agent.
 
-Finally, the Bivalent License is a new model (~2023) popularised by Meta with their open-source LLM "LLaMa2". The strategy consists of using a conditional Licence. If you're a free rider but not making a profit, you can keep using it for free. However, if you start being profitable thanks to the use of the open-sourced asset, then you fall into the proprietary part of the Licence and have to seek a commercial agreement.
+Finally, the Dual-licensing model is a quite new and interesting model. Meta utilised it with "LLaMa2" (although the open-source nature of models is discussable). The strategy consists of using a conditional Licence. If you're a [free rider](https://www.youtube.com/watch?v=LTgiiDNyFkc) but not making a profit, you can keep using it for free. However, if you start being profitable thanks to the use of the open-sourced product, then you fall into the proprietary part of the Licence and have to seek a commercial agreement.
 
-**Successful Open Source companies today are a combination of multiple of these commercialisation strategies.**
+**Successful open source companies today are a combination of multiple of these commercialisation strategies.**
 
-However, Open Core and Bivalent License aren't true Open Source ([Open Source should always be Free](https://notes.valentin.viennot.me/Open%20Source%20should%20always%20be%20Free)). Consulting Services and Brand Value are great strategies but are really hard to leverage and scale. And finally, the Disruption Tool strategy is smart but doesn't serve an immediately leverage-able end.
+I am a defender of the 'open source should always be free' church, and therefore I don't consider Dual-licensing or Open core as true open source. Consulting services and Brand value are great strategies but are really hard to leverage and scale. And finally, the Disruption tool strategy is smart but doesn't serve an immediately leverage-able end.
 
-## Open Source can't create Value in a Capitalist Economy
+## Open source can't create value in a Capitalist economy
 
-_*Open Source can't create Value in a **traditional** Capitalist Economy_
+_*Open source can't create Value in a **traditional** Capitalist economy_
 
-By definition, the Open Source ideology makes the strong axioms that both Labour and Intellectual Property must be free ([Open Source should always be Free](https://notes.valentin.viennot.me/Open%20Source%20should%20always%20be%20Free)).
-
-This is frontally opposed to the Capitalist axioms mentioned above.
+**By axiomatic definition, the open source ideology defines labor and Intellectual Property (IP) as being free (as in freedom).** This is opposed to the Capitalism axioms explained before.
 
 **Therefore, Open Source and Capitalism are incompatible.**
 
 These principles, or rather Axioms, are like the Laws of Physics of a Capitalist Economy and of Open Source. One one side, that's how Investors can make a Profit thanks to their Capital. On the other side, that's why Open Source contributors are willing to work.
 
-> Ok, so, we're stuck. This is an unsolvable problem. ... [Tell me it's impossible and I'll do it](https://notes.valentin.viennot.me/Tell%20me%20it's%20impossible%20and%20I'll%20do%20it)
-
 ## Redefining Capital
 
-All these thoughts and ideas occupied my mind for quite some time. And I really couldn't understand how to make sense of them and find a solution. Or at least one that didn't involve global, coordinated, marxist-style regulations.
+All these thoughts and ideas occupied my mind for quite some time. And I really couldn't understand how to make sense of them and find a solution. Or at least one that didn't involve global, coordinated, marxist-style regulations. Until I read the vision statement of [DeSo](https://docs.deso.org/).
 
-Until I read the vision statement of [DeSo](https://notes.valentin.viennot.me/DeSo).
-
-What they were building there at [DeSo](https://notes.valentin.viennot.me/DeSo) was a decentralised social network leveraging "Influence" (ie, some kind of [Brand value](https://notes.valentin.viennot.me/Brand%20value)) effectively as _Capital_. You could now invest your Influence, trade someone else's Influence, and bet on someone's —or your own— future Influence.
+What they were building there at DeSo is a decentralised social network leveraging "Influence" (ie, some kind of Brand value) effectively as _Capital_. You could now invest your Influence, trade someone else's Influence, accumulate and bet on someone's—or your own—future Influence.
 
 In parallel, the fact that cryptos markets (DeFi) were able to (at least temporarily) move the traditional Global Economy (TradFi) was a Proof of Concept that building a new, decentralised, "web3"-style Economy could transform the Global System ([interesting read on DeFi vs TradFi regulations](https://anplanger.medium.com/the-threat-to-defi-is-not-regulation-4a2cf87d8f9a)).
 
 ### Money, Time, and Influence as Capital (= Value)
 
-([All we do is invest](https://mindthegapblog.com/posts/all-we-do-is-investment/) —[source](https://notes.valentin.viennot.me/blog%2Fposts%2Finvesting-time%2Findex))
+If we start considering Time (=work), Influence, and Money as equivalent investment methodologies to build [Capital](https://mindthegapblog.com/posts/all-we-do-is-investment/), instead of production means, we have a shot at solving the unsolvable (["A capitalist is somebody who stakes what is for what could be"](https://isaiahtaylor.com/an-overview-of-modern-capitalism)).
 
-If we start looking at Time (=work) as Capital instead of a production mean, we have a shot at solving the unsolvable.
+**Capital is free.** It belongs to everyone. The question is "who is able to leverage it, and who isn't?" (topic for a later essay).
 
-**Capital is free.** It belongs to everyone. The question is "who is able to leverage it, and who isn't?".
+My [principle](../principle/) is that:
+- Knowledge shouldn't be capitalised,
+- Everyone should have access to capital,
+- All investment should lead to shares.
 
-#### Socialism
+## Brand(t) = Time(t) x Money(t)
 
-In a very Capitalist Economy/World, only a few lucky ones are... and it's full of vicious circles/feedback loops ([At the end of a Monopoly game, there can only be one winner](https://notes.valentin.viennot.me/At%20the%20end%20of%20a%20Monopoly%20game%2C%20there%20can%20only%20be%20one%20winner)).
+The only thing we need to do to solve the open source valuation problem is **to create a new economy that sets Time (=Work), Money, and Brand (=Influence) as equivalent parameters of Value creation**.
 
-In the Socialist ideology, Labour=Value ([Human Labour is what creates Value](https://notes.valentin.viennot.me/Human%20Labour%20is%20what%20creates%20Value)). And ultimately , Capital should be redistributed so that everyone gets a chance to leverage it. In practice, Socialism in a Capitalist Economy has very limited options.
+**The equation of such system could be: `Brand(t) = Time(t) x Money(t)`.**
 
-## The New Open Economy
+Project investors (including investor-leaders, investor-contributors, and investor-consumers) would then [compete](https://www.gnu.org/gnu/manifesto.html) in order to build the most valuable Brand on the market. They would do so by defining a governance, culture, making decisions and investments in order to create an identity (the Brand) that is the best at serving their consumers (=users).
 
-So how can we effectively solve the unsolvable?
+As software is meant to go to trash (or—in more positive words—is never finished), this would equal to the projects able to attract the most contributions.
 
-The only thing we need to do is **to create a new Economy that sets Time (=Work), Money, and Influence (=Brand) as equivalent parameters of Value creation**. This New Economy (read New World) would require projects to be Open Source, for fairness.
+### The gift of open competition
 
-The equation of such System could be: `Brand(t) = Time(t) x Money(t)`.
+Open competition (= all projects must be open source) would guarantee the most fair, most innovative, most _profitable_ (for society) race.
 
-Project Contributors (Leadership, Workers and Investors/Consumers) would then compete in order to build the most valuable Brand on the market. They would do so by defining a governance, culture, making decisions and investments in order to create an identity (the Brand) that is the best at serving their consumers (=users).
+This new economy only addresses and solves the innovation market (Knowledge). The traditional market (TradFi) would still need to co-exist in order to support resource-centric businesses and other consulting (Partner-type of) businesses: goods and services.
 
-### The Gift of Open Competition
+> A change in ideology would ideally mean that workers would eventually collaboratively own factories as they aren't profitable to former investors anymore. Only freed human labor would then be able to get leveraged to create value in the form of knowledge.
 
-Open Competition (= all projects must be Open Source) would guarantee the most fair, most innovative, most _profitable_ (for society) race ([Open innovation is the healthiest competition](https://notes.valentin.viennot.me/Open%20innovation%20is%20the%20healthiest%20competition)).
+Eventually, the only resources left to optimise in the traditional economy would be natural resources (energy, materials) and commoditised labor (=the one that will eventually be replaced by robotisation and automation).
 
-This New Economy only addresses and solves the Innovation market. The traditional market (TradFi) would still need to co-exist in order to support resource-centric businesses and other consulting (Partner-type of) businesses.
+**As a consequence, this new economy would effectively leverage the traditional economy in order to optimise the use of natural resources and maximise innovation.**
 
-> A change in ideology would ideally mean that workers would eventually collaboratively own factories as they aren't profitable to former Investors anymore. Only freed Human Labour would then be able to get used to create Value.
+### Disrupting the Capitalist economy
 
-Eventually, the only resources left to optimise in the traditional economy would be natural resources (energy, materials...) and commoditised labour (=that would eventually get replaced with robots).
+In this new economy, profit will still be possible and still be the incentive. It would however now mostly happen on the side of the new, open economy as traditional resource-centric businesses get commoditised. The profit incentive will reward investors (both traditional capitalists with money and new investor-contributors with work) in shares.
 
-**As a consequence, this New Economy would effectively leverage the Traditional Economy in order to optimise the use of natural resources and maximise Innovation.**
+In addition, some profit would still be possible within the traditional economy. Human labor being the only non-commoditised source of value. Profitable businesses with differentiated competitive value coming from non-commoditised labor would still exist. For example, partner-type businesses: lawyer firms, investment funds, restaurants, etc.
 
-### Disrupting the Capitalist Economy
+**Eventually, added value would come exclusively from human creativity.**
 
-In this New Economy, Profit will still be possible. It would however now mostly happen on the side of the New, Open Economy as traditional resource-centric businesses get commoditised.
-
-In addition, some Profit would still be possible within the traditional economy. Human Labour being the only irreplaceable Value. Profitable businesses with differentiated competitive value coming from non-commoditised Human Labour would still exist. For example, Partner-type businesses: Lawyer firms, Investment Funds and Asset Management, Restaurants, etc.
-
-**In the end, Added Value would come exclusively from human creativity.**
-
-[The Open Market](https://notes.valentin.viennot.me/The%20Open%20Market) aims to make this New Economy a reality.
-
-> Eventually, Humans as freed workers would educate more and more in order to collectively keep creating Value (ie, be more creative and skilled workers) , therefore achieving: [My mission](https://notes.valentin.viennot.me/My%20mission).
+Eventually, Humans as freed workers would educate more and more in order to collectively keep creating undifferentiated Value (i.e., be more creative and skilled workers).
 
 _(This post is part of the "Open Market" [series](/posts/open-market-series/))_
