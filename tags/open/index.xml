@@ -11,15 +11,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2022-2023</copyright>
-    <lastBuildDate>Fri, 22 Sep 2023 10:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/tags/open/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 10:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/tags/open/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Common tragedies: Funding open source vs Saving the planet</title>
       <link>https://mindthegapblog.com/posts/saving-the-planet/</link>
-      <pubDate>Fri, 22 Sep 2023 10:00:29 +0200</pubDate>
+      <pubDate>Sun, 22 Oct 2023 10:00:29 +0200</pubDate>
       
       <guid>https://mindthegapblog.com/posts/saving-the-planet/</guid>
       <description>In my last post —Why Open Source isn&amp;rsquo;t Profitable—, I explain the Curse of Competition as a sort of Tragedy of the Commons: because open-source intellectual property is free to access, all economic agents will exploit it without giving back (a.k.a. as the free riders issue). If the resource is finite, then its value will tragically be destroyed by this unrestrained consumption.
 With the same analysis, we can explain how and why our current dominant economic system will eventually consume all of the available natural resources and destroy all living species.</description>
+    </item>
+    
+    <item>
+      <title>Why Open Source isn&#39;t Profitable</title>
+      <link>https://mindthegapblog.com/posts/why-open-source/</link>
+      <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
+      
+      <guid>https://mindthegapblog.com/posts/why-open-source/</guid>
+      <description>In a Capitalist economy, Open Source has no (direct) value.
+Open source is not profitable Let&amp;rsquo;s start with a few definitions:
+the price is the exchange value of a good or a service in a socio-economic context, the production cost is what it costs to build a good or deliver a service, added value is the price minus the production cost. Open-source software delivers an added value close to or below zero.</description>
     </item>
     
   </channel>

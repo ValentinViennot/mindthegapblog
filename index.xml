@@ -11,11 +11,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2022-2023</copyright>
-    <lastBuildDate>Fri, 22 Sep 2023 10:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Nov 2023 20:51:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Principle of equitable empowerment</title>
+      <link>https://mindthegapblog.com/posts/principle/</link>
+      <pubDate>Sun, 05 Nov 2023 20:51:29 +0200</pubDate>
+      
+      <guid>https://mindthegapblog.com/posts/principle/</guid>
+      <description>Knowledge must be freely accessible to all, providing the foundation for informed autonomy and enabling the collective intelligence necessary to address systemic issues. Communities must have the freedom to self-organise, and societal structures should facilitate serendipitous innovation and resilience, ensuring that every individual has the same opportunity to contribute to and benefit from the collective effort to solve our biggest problems. Societal structures should be here to empower, not disable.</description>
+    </item>
+    
     <item>
       <title>Common tragedies: Funding open source vs Saving the planet</title>
       <link>https://mindthegapblog.com/posts/saving-the-planet/</link>
-      <pubDate>Fri, 22 Sep 2023 10:00:29 +0200</pubDate>
+      <pubDate>Sun, 22 Oct 2023 10:00:29 +0200</pubDate>
       
       <guid>https://mindthegapblog.com/posts/saving-the-planet/</guid>
       <description>In my last post —Why Open Source isn&amp;rsquo;t Profitable—, I explain the Curse of Competition as a sort of Tragedy of the Commons: because open-source intellectual property is free to access, all economic agents will exploit it without giving back (a.k.a. as the free riders issue). If the resource is finite, then its value will tragically be destroyed by this unrestrained consumption.
@@ -28,8 +37,9 @@ With the same analysis, we can explain how and why our current dominant economic
       <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
       
       <guid>https://mindthegapblog.com/posts/why-open-source/</guid>
-      <description>In Open Source is not profitable, I explain my thinking that —in a Capitalist Economy—, Open Source has no (financial) added value.
-What this means is that, when the added Value is measured with the valuation of the total financial assets created or gathered by a company, then Open Source projects and companies deliver an added value close to Zero (or at least, not as fast growing as traditional companies relying on proprietary assets).</description>
+      <description>In a Capitalist economy, Open Source has no (direct) value.
+Open source is not profitable Let&amp;rsquo;s start with a few definitions:
+the price is the exchange value of a good or a service in a socio-economic context, the production cost is what it costs to build a good or deliver a service, added value is the price minus the production cost. Open-source software delivers an added value close to or below zero.</description>
     </item>
     
     <item>
