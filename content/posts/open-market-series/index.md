@@ -42,6 +42,7 @@ Here's the list of published articles related to this series so far:
 
 1. [All we do is invest: Money, Time, Influence.](/posts/all-we-do-is-investment/)
 2. [Why Open Source is not Profitable.](/posts/why-open-source/)
+3. [Common Tragedies.](/posts/saving-the-planet/)
 
 <!-- ---
 
