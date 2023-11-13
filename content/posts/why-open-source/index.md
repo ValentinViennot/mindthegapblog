@@ -4,8 +4,7 @@ date: 2023-09-21T10:00:29+02:00
 slug: why-open-source
 tags:
   - thoughts
-  - open
-  - market
+  - open market
   - opinion
 keywords:
   - opensource

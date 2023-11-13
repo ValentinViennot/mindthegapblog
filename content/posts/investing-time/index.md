@@ -1,10 +1,15 @@
 ---
-title: "All we do is invest."
+title: All we do is invest.
 date: 2023-05-21T10:00:29+02:00
-slug: "all-we-do-is-investment"
-tags: ["thoughts", "open market", "opinion"]
-keywords: ["investment", "market", "startup"]
-# draft: true
+slug: all-we-do-is-investment
+tags:
+  - thoughts
+  - opinion
+  - open market
+keywords:
+  - investment
+  - market
+  - startup
 ---
 
 All we are doing is investment. Taking the bus to meet a friend? That's an investment. Quitting your job to work at another company? That's investing. Skipping the gym? Bad investment, but still one. Going to bed early? Probably a good investment. So let me give you my best investment advice: spend your time wisely. Imagine you are a millionaire and you are placing your entire fortune into 24 chunks of money every day.
