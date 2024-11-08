@@ -110,7 +110,7 @@ If the current state of our economy is slowing down (or even, not speeding up) i
 
 ## Markets as a tool in our belt
 
-Financial markets are a powerful tool to incentivise value creation and the unstoppable race to innovation. We [successfully]([https://a16z.com/the-techno-optimist-manifesto/](https://a16z.com/the-techno-optimist-manifesto/)) used them to drive years of incredible technological progress.
+Financial markets are a powerful tool to incentivise value creation and the unstoppable race to innovation. We [successfully](https://a16z.com/the-techno-optimist-manifesto/) used them to drive years of incredible technological progress.
 
 **Unfortunately, the current version of our financial markets might well destroy humanity.**
 
