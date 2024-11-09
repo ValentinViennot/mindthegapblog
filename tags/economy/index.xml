@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>economy on Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</title>
+    <title>Economy on Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</title>
     <link>https://mindthegapblog.com/tags/economy/</link>
-    <description>Recent content in economy on Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</description>
+    <description>Recent content in Economy on Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</description>
     <image>
+      <title>Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</title>
       <url>https://mindthegapblog.com/mindthegap-tmp-picture.png</url>
       <link>https://mindthegapblog.com/mindthegap-tmp-picture.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <copyright>© 2022-2023</copyright>
-    <lastBuildDate>Sun, 22 Oct 2023 10:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/tags/economy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022-2023</copyright>
+    <lastBuildDate>Sun, 22 Oct 2023 10:00:29 +0200</lastBuildDate>
+    <atom:link href="https://mindthegapblog.com/tags/economy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Common tragedies: Funding open source vs Saving the planet</title>
       <link>https://mindthegapblog.com/posts/saving-the-planet/</link>
       <pubDate>Sun, 22 Oct 2023 10:00:29 +0200</pubDate>
-      
       <guid>https://mindthegapblog.com/posts/saving-the-planet/</guid>
-      <description>In my last post —Why Open Source isn&amp;rsquo;t Profitable—, I explain the Curse of Competition as a sort of Tragedy of the Commons: because open-source intellectual property is free to access, all economic agents will exploit it without giving back (a.k.a. as the free riders issue). If the resource is finite, then its value will tragically be destroyed by this unrestrained consumption.
-With the same analysis, we can explain how and why our current dominant economic system will eventually consume all of the available natural resources and destroy all living species.</description>
+      <description>&lt;p&gt;In my last post —&lt;a href=&#34;https://mindthegapblog.com/posts/why-open-source/&#34;&gt;Why Open Source isn&amp;rsquo;t Profitable&lt;/a&gt;—, I explain the &lt;a href=&#34;https://mindthegapblog.com/posts/why-open-source/#the-curse-of-competition&#34;&gt;Curse of Competition&lt;/a&gt; as a sort of &lt;a href=&#34;https://www.jstor.org/stable/1724745&#34;&gt;Tragedy of the Commons&lt;/a&gt;: because open-source intellectual property is free to access, all economic agents will exploit it without giving back (a.k.a. as the &lt;em&gt;free riders&lt;/em&gt; issue). If the resource is finite, then its value will tragically be destroyed by this unrestrained consumption.&lt;/p&gt;
+&lt;p&gt;With the same analysis, we can explain how and why our current dominant economic system will eventually consume all of the available natural resources and destroy all living species. That is, unless proper regulations were to be globally adopted (&lt;a href=&#34;https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1848&amp;context=nrj&#34;&gt;Governing the Commons: The Evolution of Institutions for Collective Action&lt;/a&gt;, Elinor Ostrom, 1992).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

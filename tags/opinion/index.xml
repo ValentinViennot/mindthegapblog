@@ -1,57 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>opinion on Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</title>
+    <title>Opinion on Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</title>
     <link>https://mindthegapblog.com/tags/opinion/</link>
-    <description>Recent content in opinion on Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</description>
+    <description>Recent content in Opinion on Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</description>
     <image>
+      <title>Mind the gap blog: Insights, ideas, and inspiration for the tech-savvy and curious.</title>
       <url>https://mindthegapblog.com/mindthegap-tmp-picture.png</url>
       <link>https://mindthegapblog.com/mindthegap-tmp-picture.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <copyright>© 2022-2023</copyright>
-    <lastBuildDate>Mon, 13 Nov 2023 20:00:29 +0200</lastBuildDate><atom:link href="https://mindthegapblog.com/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022-2023</copyright>
+    <lastBuildDate>Fri, 08 Nov 2024 22:44:29 +0200</lastBuildDate>
+    <atom:link href="https://mindthegapblog.com/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manifesto. (Fuck the VCs.)</title>
+      <link>https://mindthegapblog.com/posts/manifesto/</link>
+      <pubDate>Fri, 08 Nov 2024 22:44:29 +0200</pubDate>
+      <guid>https://mindthegapblog.com/posts/manifesto/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I authored last year a manifesto for the &lt;a href=&#34;https://fuckthevcs.com/&#34;&gt;&amp;ldquo;Fuck the VCs&amp;rdquo; project&lt;/a&gt;: a platform committed to challenging the status quo of the venture capital industry by creating the first open source investment community.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The principles outlined in the manifesto resonate deeply with the broader themes that I explore here on my blog, particularly the ideals and ethics of open source.
+I truly enjoyed writing the Manifesto and figured its principles extend way further than the FTVCs initiative.
+It&amp;rsquo;s a call to action for creating a &lt;a href=&#34;../principle/&#34;&gt;more equitable&lt;/a&gt; and sustainable future through collaborative, human-centered innovation.
+It feels very personal to me and I would read it anytime I am feeling low or need to remember why I do the things I do.
+I am excited to share it with you all here.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The future of work.</title>
       <link>https://mindthegapblog.com/posts/future-of-work/</link>
       <pubDate>Mon, 13 Nov 2023 20:00:29 +0200</pubDate>
-      
       <guid>https://mindthegapblog.com/posts/future-of-work/</guid>
-      <description>We work because we are humans. Looking back at humanity&amp;rsquo;s history, the evolution of our modes of subsistence shows how central the modes of production and the organisation of human labor are in providing for our material needs.
-Humans work in order to give meaning to their lives. We work in order to consciously, intentionally shape our surroundings. We work as a socially organised way to expand.
-We work in order to create value.</description>
+      <description>&lt;p&gt;We work because we are humans. Looking back at humanity&amp;rsquo;s history, the evolution of our modes of subsistence shows how central the modes of production and the organisation of human labor are in providing for our material needs.&lt;/p&gt;
+&lt;p&gt;Humans work in order to give meaning to their lives. We work in order to consciously, intentionally shape our surroundings. We work as a socially organised way to expand.&lt;/p&gt;
+&lt;p&gt;We work in order to create value.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Common tragedies: Funding open source vs Saving the planet</title>
       <link>https://mindthegapblog.com/posts/saving-the-planet/</link>
       <pubDate>Sun, 22 Oct 2023 10:00:29 +0200</pubDate>
-      
       <guid>https://mindthegapblog.com/posts/saving-the-planet/</guid>
-      <description>In my last post —Why Open Source isn&amp;rsquo;t Profitable—, I explain the Curse of Competition as a sort of Tragedy of the Commons: because open-source intellectual property is free to access, all economic agents will exploit it without giving back (a.k.a. as the free riders issue). If the resource is finite, then its value will tragically be destroyed by this unrestrained consumption.
-With the same analysis, we can explain how and why our current dominant economic system will eventually consume all of the available natural resources and destroy all living species.</description>
+      <description>&lt;p&gt;In my last post —&lt;a href=&#34;https://mindthegapblog.com/posts/why-open-source/&#34;&gt;Why Open Source isn&amp;rsquo;t Profitable&lt;/a&gt;—, I explain the &lt;a href=&#34;https://mindthegapblog.com/posts/why-open-source/#the-curse-of-competition&#34;&gt;Curse of Competition&lt;/a&gt; as a sort of &lt;a href=&#34;https://www.jstor.org/stable/1724745&#34;&gt;Tragedy of the Commons&lt;/a&gt;: because open-source intellectual property is free to access, all economic agents will exploit it without giving back (a.k.a. as the &lt;em&gt;free riders&lt;/em&gt; issue). If the resource is finite, then its value will tragically be destroyed by this unrestrained consumption.&lt;/p&gt;
+&lt;p&gt;With the same analysis, we can explain how and why our current dominant economic system will eventually consume all of the available natural resources and destroy all living species. That is, unless proper regulations were to be globally adopted (&lt;a href=&#34;https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1848&amp;context=nrj&#34;&gt;Governing the Commons: The Evolution of Institutions for Collective Action&lt;/a&gt;, Elinor Ostrom, 1992).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why Open Source isn&#39;t Profitable</title>
       <link>https://mindthegapblog.com/posts/why-open-source/</link>
       <pubDate>Thu, 21 Sep 2023 10:00:29 +0200</pubDate>
-      
       <guid>https://mindthegapblog.com/posts/why-open-source/</guid>
-      <description>In a Capitalist economy, Open Source has no (direct) value.
-Open source is not profitable Let&amp;rsquo;s start with a few definitions:
-the price is the exchange value of a good or a service in a socio-economic context, the production cost is what it costs to build a good or deliver a service, added value is the price minus the production cost. Open-source software delivers an added value close to or below zero.</description>
+      <description>&lt;p&gt;&lt;strong&gt;In a Capitalist economy, Open Source has no (direct) value.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-source-is-not-profitable&#34;&gt;Open source is not profitable&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s start with a few definitions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the price is the exchange value of a good or a service in a socio-economic context,&lt;/li&gt;
+&lt;li&gt;the production cost is what it costs to build a good or deliver a service,&lt;/li&gt;
+&lt;li&gt;added value is the price minus the production cost.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Open-source software delivers an &lt;em&gt;added value&lt;/em&gt; close to or below zero. As the &lt;em&gt;price&lt;/em&gt; for using it is zero so is the &lt;em&gt;added value&lt;/em&gt;, no matter the &lt;em&gt;production cost&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>All we do is invest.</title>
       <link>https://mindthegapblog.com/posts/all-we-do-is-investment/</link>
       <pubDate>Sun, 21 May 2023 10:00:29 +0200</pubDate>
-      
       <guid>https://mindthegapblog.com/posts/all-we-do-is-investment/</guid>
-      <description>All we are doing is investment. Taking the bus to meet a friend? That&amp;rsquo;s an investment. Quitting your job to work at another company? That&amp;rsquo;s investing. Skipping the gym? Bad investment, but still one. Going to bed early? Probably a good investment. So let me give you my best investment advice: spend your time wisely. Imagine you are a millionaire and you are placing your entire fortune into 24 chunks of money every day.</description>
+      <description>&lt;p&gt;All we are doing is investment. Taking the bus to meet a friend? That&amp;rsquo;s an investment. Quitting your job to work at another company? That&amp;rsquo;s investing. Skipping the gym? Bad investment, but still one. Going to bed early? Probably a good investment. So let me give you my best investment advice: spend your time wisely. Imagine you are a millionaire and you are placing your entire fortune into 24 chunks of money every day.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
