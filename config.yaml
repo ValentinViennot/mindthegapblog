@@ -82,9 +82,10 @@ params:
     #           url: tags
 
     homeInfoParams:
-        Title: "Mind the gap blog"
-        Content: >
-            Welcome to Mind the gap blog, where we explore the intersections of technology, design, society, and open source. Our goal is to contribute to individual and collective intelligence by sharing thought-provoking ideas, insights, and perspectives. Join us as we mind the gap between what is and what could be, and explore the possibilities of a smarter, more connected world.
+        Title: "Welcome to my mind"
+        # Title: "Mind the gap blog"
+        # Content: >
+        #     Welcome to Mind the gap blog, where we explore the intersections of technology, design, society, and open source. Our goal is to contribute to individual and collective intelligence by sharing thought-provoking ideas, insights, and perspectives. Join us as we mind the gap between what is and what could be, and explore the possibilities of a smarter, more connected world.
     socialIcons:
         - name: twitter
           url: "https://twitter.com/valentinviennot"
