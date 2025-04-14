@@ -1,5 +1,5 @@
 ---
-title: "Principle of equitable empowerment"
+title: "Principle of equitable empowerment."
 date: 2023-11-05T20:51:29+02:00
 slug: principle
 tags:

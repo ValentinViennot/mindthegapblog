@@ -1,5 +1,5 @@
 ---
-title: Why Open Source isn't Profitable
+title: Why Open Source isn't profitable.
 date: 2023-09-21T10:00:29+02:00
 slug: why-open-source
 tags:

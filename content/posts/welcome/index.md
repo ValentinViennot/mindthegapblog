@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the mind the gap blog!"
+title: "Welcome to the mind the gap blog."
 date: 2022-12-07T23:00:29+02:00
 slug: "welcome-mindthegap-blog"
 # description: "First blog entry of the Mind the gap blog."
@@ -8,7 +8,7 @@ keywords: ["mindthegap", "valentin viennot", "blog", "ideas"]
 # draft: true
 ---
 
-Hi everyone!
+Hi everyone,
 
 I'm Valentin, a passionate inventor using technology to make the world a better place.
 I am on a [mission](../we-all-have-a-mission/) to increase both individual and collective intelligence, and to inspire and challenge you to think critically.
@@ -19,7 +19,7 @@ This eventually led me to pursue an engineering degree in Communication Systems 
 
 One of my earliest experiences with the Internet was as a teenager, when I actually didn't have network access at home.
 Though, I was determined to connect to the Internet. So I tried to remember and reproduce the IP and DNS configuration from the computers at school.
-No need to say: it did't work!
+No need to say: it did't work.
 
 Looking back, I'm grateful that I didn't have access to this powerful, unlimited resource too early in my life.
 It gave me the time to be bored.

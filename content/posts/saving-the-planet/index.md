@@ -1,5 +1,5 @@
 ---
-title: "Common tragedies: Funding open source vs Saving the planet"
+title: "Common tragedies: Funding Open Source vs Saving the planet."
 date: 2023-10-22T10:00:29+02:00
 slug: saving-the-planet
 tags:
